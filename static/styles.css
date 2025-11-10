@@ -1,11 +1,20 @@
 body {
-    background-color: #f5f7fa;
-    color: #2c3e50;
-    font-family: Arial, sans-serif;
-    text-align: center;
-    margin-top: 20%;
+  font-family: Arial;
+  text-align: center;
+  background: #eee;
+  color: #333;
 }
+
 h1 {
-    font-size: 3rem;
-    color: #16a085;
+  background: #333;
+  color: #fff;
+  padding: 10px;
+}
+
+h2 {
+  color: #444;
+}
+
+p {
+  margin: 10px;
 }
